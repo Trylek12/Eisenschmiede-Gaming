@@ -1,0 +1,6 @@
+///'Eisenschmiede_v12.4.Altis.pbo' from Mikero's dos tools, dll version 5.52///
+prefix=EisenschmiedeBrudi
+Mikero=DePbo.dll
+Pbo Type is: Arma Mission with irrelevant prefix
+Sha: '8D6C12F47BC1CB0C1C2BABB9B32BDFA6FA28A3A3'
+//////</HEADER>//////
